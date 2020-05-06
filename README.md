@@ -26,3 +26,11 @@ In our company the organisation of the orders was very caotic in the past. I got
   5. Version 1.4
         - Communication system between the employees of the company.
         - Communication line between the employees and the developer, to improve the efficiency of the app.
+  6. Version 1.5
+        - Create a list from the stored item.
+        - Interface for the storage.( Items, item count, item position in the storage(shelf number)
+        - If a new item arrives add to the websop and the storage interface.
+        - If an item is missing set the item's webshop status for missing.
+        - Create a -missing list- for missing items to make the refill easyer.
+        - If an item miss add to the -missing list-
+        
