@@ -19,3 +19,7 @@ In our company the organisation of the orders was very caotic in the past. I got
         - If the packing was succesful, send an email for the client.
         - If the payment was sucessful, but we dont have the specific item in the storage, send an email to the client.
         - Send emails for our members about our new goods.
+  4. Version 1.3
+        - Class system for special items: dangerous chemicals, extreme sport tools, powertools, ect.
+        - If someone order an item from a special class the system automaticly add description or safety tool to the pack.
+        - If the payment is for the video “Learning to Ski,” add a free “First Aid” video to the packing slip (the result of a court decision in 1997).
