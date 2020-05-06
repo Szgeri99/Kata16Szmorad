@@ -23,3 +23,6 @@ In our company the organisation of the orders was very caotic in the past. I got
         - Class system for special items: dangerous chemicals, extreme sport tools, powertools, ect.
         - If someone order an item from a special class the system automaticly add description or safety tool to the pack.
         - If the payment is for the video “Learning to Ski,” add a free “First Aid” video to the packing slip (the result of a court decision in 1997).
+  5. Version 1.4
+        - Communication system between the employees of the company.
+        - Communication line between the employees and the developer, to improve the efficiency of the app.
