@@ -15,3 +15,7 @@ In our company the organisation of the orders was very caotic in the past. I got
         - If the payment is for a membership, activate that membership.
         - If the payment is an upgrade to a membership, apply the upgrade.
         - If the payment is for a membership or upgrade, e-mail the owner and inform them of the activation/upgrade.
+  3. Version 1.2
+        - If the packing was succesful, send an email for the client.
+        - If the payment was sucessful, but we dont have the specific item in the storage, send an email to the client.
+        - Send emails for our members about our new goods.
